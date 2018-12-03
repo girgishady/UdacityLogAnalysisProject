@@ -1,0 +1,18 @@
+vagrant@vagrant:/vagrant$ python3 log_analysis.py
+the most popular three articles of all time:
+--------------------------------------------
+candidate-is-jerk : 338647
+bears-love-berries : 253801
+bad-things-gone : 170098
+============================================
+the most popular article authors of all time:
+---------------------------------------------
+Ursula La Multa : 507594
+Rudolf von Treppenwitz : 423457
+Anonymous Contributor : 170098
+Markoff Chaney : 84557
+============================================
+days did more than 1% of requests lead to errors:
+-------------------------------------------------
+2016-07-17 : 2
+============================================
